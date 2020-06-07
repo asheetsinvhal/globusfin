@@ -1,2 +1,2 @@
-# globusfin
-Testing GF app
+# Web based stock trading game
+Testing the trading app
